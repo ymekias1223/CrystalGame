@@ -1,0 +1,70 @@
+body{
+	background-image: url("assets/background.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+img{
+	height:200px;
+	width:200px;
+	margin-left: 60px;
+}
+button{
+	margin-left: 37%;
+}
+
+.container{
+
+
+}
+.row1{
+	color:#4a0356;
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+.row2 {
+	margin-top: 25px;
+	margin-left:20px;
+	margin-right: 20px;
+
+}
+.row3 .row4 .row5 .row6{
+	margin-top: 10px;
+	margin-left:20px;
+	margin-right: 20px;
+	background-color: black;
+
+}
+.currentGoal{
+	float: right;
+	margin-left: 20%
+
+}
+.dataEntry{
+
+}
+.yourNumber{
+	font-size: 25px;
+	color:green;
+	font-family:;
+	text-align: center;
+
+}
+.resetButton{
+
+}
+.goalNumber{
+	font-size: 25px;
+	color:red;
+	font-family:;
+	text-align: center;
+
+}
+.winLoss{
+	font-size: 25px;
+	color:#60cc0e;
+	text-align: center;
+}
+.images{
+
+}
